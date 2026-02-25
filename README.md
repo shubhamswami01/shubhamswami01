@@ -1,47 +1,48 @@
-# <p align="center"> ☕ Shubham Swami </p>
-<p align="center"><b>Full Stack Developer | AI Enthusiast | DSA Practitioner</b></p>
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub & Coding Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamswami01&show_icons=true&theme=blue_select&title_color=ffff00&text_color=ffffff&icon_color=ff0000&border_color=ffffff&hide_border=false" alt="GitHub Stats" />
-  
-  <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?shubhamswami01&layout=compact&theme=tokyonight&title_color=ffff00&hide_border=false" alt="Top Languages" />
-  
-  <br><br>
+# ⚡ System.out.println("Hello, World!"); 
+### 👋 I'm Shubham Swami | 3rd Year ECS Student
 
-  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Electronics+%26+Computer+Science;Data+Structures+%26+Algorithms;Frontend+Web+Developer;Building+Student+Exchange+MVP" alt="Typing SVG" />
 
 ---
 
-### 🤝 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/shubham-swami-21b32a2a2/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### 🟢 The Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,git&theme=dark" />
+  </a>
 </p>
 
 ---
 
-### 🏁 100 Days of DSA
-🏁 **[Track my 100 Days of DSA Journey here!](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DSA_REPO_NAME)**
+### 🕵️‍♂️ About Me
+- 🎓 Pursuing **Electronics & Computer Science** (The Bridge between HW & SW).
+- 🚀 Built an **MVP for a Student Exchange Website** (Frontend Focused).
+- 💻 Currently grinding **DSA** to sharpen my logic.
+- ⚡ Fun fact: I prefer the Matrix green because code looks better in neon.
 
-> **Current Status:** Day 1 / 100  
-> ![Progress](https://geps.dev/progress/1?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+---
+
+### 🐍 The Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamswami01/shubhamswami01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamswami01/shubhamswami01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamswami01/shubhamswami01/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📊 System Status
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamswami01&show_icons=true&theme=matrix&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamswami01&layout=compact&theme=matrix&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE@gmail.com)
+
+</div>
