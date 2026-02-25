@@ -1,4 +1,4 @@
-<!-- STAGE 1: CINEMATIC TERMINAL HEADER -->
+<!-- STEP 1: GLITCH-FREE TERMINAL HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
 </p>
@@ -10,41 +10,41 @@
 
 ---
 
-### 🎭 The Actor's Profile
-- 📖 **The Plot:** I bridge the gap between deep **DSA theory** and creative **frontend** execution.
-- 🎬 **The Role:** Currently rehearsing for a **Full Stack Developer** role.
-- 🧠 **The Script:** Diving deep into **MongoDB**, **Node.js**, and **System Design**.
-- 🌟 **The Vision:** Integrating **AI niches** into scalable web applications.
+### 🎬 The Script
+- 🎭 **Tagline:** Just like "3 Idiots," I believe in chasing excellence, not success.
+- 🚀 **Mission:** Transitioning from Frontend to a **Job-Ready Full Stack Developer**.
+- 🧠 **Superpower:** I can explain **DSA Theory** like a movie plot, even if my code is still in rehearsals.
+- 🤖 **Next Act:** Integrating **AI features** into my future web projects.
 
 ---
 
-### 🛠 My Tech Arsenal (The Weapons)
+### 🛠 My Arsenal (Tech Stack)
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://skillicons.dev" />
 </p>
 
 ---
 
-### 📊 Live Performance Metrics
+### 📊 Real-Time Production Stats
+<!-- Using a high-stability Mirror Server -->
 <p align="center">
-  <!-- GitHub Streak Stats: Highly stable alternative -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Top Langs" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- GitHub Top Langs: Compact & Vibrant -->
-  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" />
-</p>
-
 ---
 
-### 🎬 Closing Credits
-- 💬 Ask me about: **Acting**, **DSA logic**, or **MERN stack**.
-- 📫 Reach out: [Your Email] | [Your LinkedIn]
-- ⚡ Fun Fact: I can explain a **Linked List** like a movie script.
+### 📬 Let's Connect
+<p align="center">
+<a href="https://linkedin.com"><img src="https://img.shields.io" /></a>
+<a href="mailto:yourname@email.com"><img src="https://img.shields.io" /></a>
+</p>
 
-<!-- Cinematic Footer Wave -->
+<!-- Cinematic Wave Footer -->
 <img src="https://capsule-render.vercel.app" width="100%"/>
 
