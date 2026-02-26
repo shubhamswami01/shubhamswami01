@@ -45,7 +45,7 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-swami-21b32a2a2&theme=blue_select&title_color=ffff00&text_color=ffffff&stroke=ffff00&fire=ff0000" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamswami01&theme=blue_select&title_color=ffff00&text_color=ffffff&stroke=ffff00&fire=ff0000" width="100%" alt="GitHub Streak" />
 
   <br><br>
 
