@@ -1,48 +1,53 @@
-<div align="center">
-
-# ⚡ System.out.println("Hello, World!"); 
-### 👋 I'm Shubham Swami | 3rd Year ECS Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Electronics+%26+Computer+Science;Data+Structures+%26+Algorithms;Frontend+Web+Developer;Building+Student+Exchange+MVP" alt="Typing SVG" />
-
----
-
-### 🟢 The Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,git&theme=dark" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=SHUBHAM%20SWAMI&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-black?style=for-the-badge&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/-AI%20Enthusiast-black?style=for-the-badge&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/-Chai%20Powered-orange?style=for-the-badge&logoColor=white&color=D2691E" />
 </p>
 
 ---
 
-### 🕵️‍♂️ About Me
-- 🎓 Pursuing **Electronics & Computer Science** (The Bridge between HW & SW).
-- 🚀 Built an **MVP for a Student Exchange Website** (Frontend Focused).
-- 💻 Currently grinding **DSA** to sharpen my logic.
-- ⚡ Fun fact: I prefer the Matrix green because code looks better in neon.
+## 🌌 The Mission
+> "Turning complex logic into elegant solutions, one cup of chai at a time."
+
+I am a **Full Stack Architect** in the making, currently deep-diving into the world of **AI niches** and high-performance **Backend systems**. My days are spent balancing the art of the frontend with the rigor of **DSA**.
 
 ---
 
-### 🐍 The Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamswami01/shubhamswami01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamswami01/shubhamswami01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamswami01/shubhamswami01/output/github-contribution-grid-snake.svg">
-</picture>
+## 🛠️ The Arsenal
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | `JavaScript` `Python` `Java` `C` |
+| **Backend** | `Node.js` `Express` `MongoDB` |
+| **Exploring** | `Large Language Models` `Neural Networks` `SaaS Architecture` |
 
 ---
 
-### 📊 System Status
+## 📈 System Diagnostics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamswami01&show_icons=true&theme=matrix&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamswami01&layout=compact&theme=matrix&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&title_color=FFFF00&text_color=FFFFFF&icon_color=FF0000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&title_color=FFFF00&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE@gmail.com)
+## 🏆 Current Operation: THE GRIND
+### 🏁 **[Track my 100 Days of DSA Journey here!](https://github.com/YOUR_GITHUB_USERNAME/DSA-Repo)**
 
-</div>
+```javascript
+const progress = {
+  day: 1,
+  status: "Optimizing Logic",
+  fuel: "Chai",
+  goal: "100% Mastery"
+};
+
