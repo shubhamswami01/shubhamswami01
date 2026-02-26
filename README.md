@@ -60,7 +60,7 @@
 **Primary Objective:** Solving one problem at a time to master complexity.
 
 <p align="left">
-  <img src="https://progress-bar.dev/1/?scale=100&title=DSA_JOURNEY&width=600&color=ffff00&suffix=%" alt="DSA Progress" />
+  <img src="https://progress-bar.dev/1/?scale=100&title=DSA_JOURNEY&width=600&color=ffff00&suffix=%" alt="https://github.com/shubhamswami01/DSA-journey.git" />
 </p>
 
 | Phase | Core Focus | Status |
