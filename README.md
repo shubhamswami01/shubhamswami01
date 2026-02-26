@@ -35,19 +35,20 @@ A dedicated developer focused on building robust Full Stack applications and exp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&title_color=38BDF8&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="100%" />
-</p>
-
 ---
 
 ### 🚀 Milestone: 100 Days of DSA
-**[Track my 100 Days of DSA Journey here!](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DSA_REPO)**
+🏁 **[Track my 100 Days of DSA Journey here!](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DSA_REPO)**
 
-> *“Consistency is the hallmark of mastery.”*
+<p align="left">
+  <b>Current Phase:</b> Array & Hashing Optimization <br>
+  <b>Goal:</b> 100 Days of Consistent Problem Solving
+</p>
 
-- **Current Goal:** Solving daily challenges to refine algorithmic thinking.
-- **Progress:** ![DSA Progress](https://geps.dev/progress/1?dangerColor=38BDF8&warningColor=38BDF8&successColor=38BDF8)
+**Current Journey Completion:**
+<br>
+<img src="https://img.shields.io/badge/PROGRESS-1%25-38BDF8?style=for-the-badge&logo=target&logoColor=white" /> 
+<img src="https://progress-bar.dev/1/?scale=100&title=DSA&width=500&color=38BDF8&suffix=%" alt="DSA Progress" />
 
 ---
 
@@ -61,8 +62,6 @@ A dedicated developer focused on building robust Full Stack applications and exp
 </a>
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" />
 </p>
-
-<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=footer" />
