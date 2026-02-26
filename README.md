@@ -51,7 +51,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamswami01&show_icons=true&theme=blue_select&title_color=ffff00&text_color=ffffff&icon_color=ff0000&hide_border=false" width="49%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-swami-21b32a2a2&layout=compact&theme=blue_select&title_color=ffff00&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamswami01&layout=compact&theme=blue_select&title_color=ffff00&hide_border=false" width="49%" />
 </div>
 
 ---
