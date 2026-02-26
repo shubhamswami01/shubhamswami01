@@ -38,7 +38,7 @@
 ### 📊 Season Performance (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blue_select&title_color=ffff00&text_color=ffffff&icon_color=ff0000&hide_border=false" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham swamu01&show_icons=true&theme=blue_select&title_color=ffff00&text_color=ffffff&icon_color=ff0000&hide_border=false" width="100%" />
   
   <br>
 
