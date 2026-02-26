@@ -1,4 +1,4 @@
-# <p align="center"> 🏎️ Shubham Swami | Full Stack & AI Enthusiast </p>
+# <p align="center"> 🖥️ Shubham Swami | Full Stack & AI Enthusiast </p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue_select" alt="Daily Quote" />
@@ -15,16 +15,16 @@
 ---
 
 ### ⚡ The Brief
-* 🎓 **Engineering:** Aspiring Full Stack Architect.
-* 🤖 **AI Interests:** Exploring niches to automate and innovate.
-* 💻 **Software First:** MERN stack developer building scalable SaaS products.
-* 🍵 **Logic Grind:** Currently tackling Data Structures & Algorithms (The engine).
+* 🎓 **Engineering:** Aspiring Full Stack Architect specializing in scalable web systems.
+* 🤖 **AI Exploration:** Deep-diving into niche AI implementations and automation.
+* 💻 **Software First:** MERN stack developer dedicated to building complete SaaS products.
+* 🍵 **Logic Grind:** Currently in the lab mastering **Data Structures & Algorithms**.
 
 ---
 
 ### 🛠️ The Tech Pitstop
 
-**Core Languages**
+**Languages & Logic**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> &nbsp;
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 </p>
 
-**Stack & Tools**
+**Stack & Architecture**
 <p align="left">
   <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -57,21 +57,22 @@
 ---
 
 ### 🏁 Track my 100 Days of DSA Journey here!
-**Current Objective:** Mastering Problem Solving Efficiency.
+**Primary Objective:** Solving one problem at a time to master complexity.
 
 <p align="left">
   <img src="https://progress-bar.dev/1/?scale=100&title=DSA_JOURNEY&width=600&color=ffff00&suffix=%" alt="DSA Progress" />
 </p>
 
-| Milestone | Focus Area | Status |
+| Phase | Core Focus | Status |
 | :--- | :--- | :--- |
-| **Days 1-20** | Arrays, Hashing & Strings | 🔄 In Progress |
-| **Days 21-50** | Linked Lists, Stacks & Queues | ⏳ Upcoming |
-| **Days 51-100** | Trees, Graphs & Dynamic Programming | ⏳ Upcoming |
+| **Phase 1 (1-25)** | Arrays, Strings & Hashing | 🔄 In Progress |
+| **Phase 2 (26-50)** | Linked Lists & Stacks | ⏳ Upcoming |
+| **Phase 3 (51-75)** | Trees & Graphs | ⏳ Upcoming |
+| **Phase 4 (76-100)** | Dynamic Programming | ⏳ Upcoming |
 
 ---
 
-### 🔗 Connectivity
+### 🤝 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-swami-21b32a2a2/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
